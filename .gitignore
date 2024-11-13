@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dépendances spécifiques à l'environnement
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuration de l'IDE
+.vscode/
+.idea/
+
+# Dossiers de build
+/dist/
+build/
+
+# Fichiers de test
+/test-results/
+
+# Fichiers de configuration locaux
+.env
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Cache de package manager
+.pnpm-debug.log

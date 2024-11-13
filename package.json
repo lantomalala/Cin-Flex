@@ -1,0 +1,19 @@
+{
+  "name": "CinéFlex",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "devStart": "nodemon api.js"
+  },
+  "keywords": [],
+  "author": "Lantomalala Justin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7"
+  }
+}
