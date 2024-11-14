@@ -4,7 +4,7 @@
   "description": "test",
   "main": "test.js",
   "scripts": {
-    "devStart": "api.js"
+    "devStart": "node api.js"
   },
   "keywords": [],
   "author": "Lantomalala Justin",
